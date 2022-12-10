@@ -4,6 +4,15 @@
 
 <p>Find me on <a href="https://www.linkedin.com/in/k-tiddy/">LinkedIn</a>.</p>
 
+## Current Projects
+
+### Flask-OpenAPI3-UI
+<p> Next generation OpenAPI v3 Integration for Flask based APIs. Based on Flasgger. </p>
+
+[![Python](https://img.shields.io/badge/python-3.6.1-blue.svg)](https://img.shields.io/badge/python-3.8-blue.svg)
+[![PyPi](https://img.shields.io/pypi/v/Flask-OpenAPI3-UI.svg)](https://pypi.python.org/pypi/Flask-OpenAPI3-UI)
+[![PyPi](https://img.shields.io/pypi/dm/Flask-OpenAPI3-UI.svg)](https://pypi.python.org/pypi/Flask-OpenAPI3-UI)
+
 ## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=katerinatiddy&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=katerinatiddy&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
