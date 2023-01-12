@@ -13,10 +13,6 @@
 [![PyPi](https://img.shields.io/pypi/v/Flask-OpenAPI3-UI.svg)](https://pypi.python.org/pypi/Flask-OpenAPI3-UI)
 [![PyPi](https://img.shields.io/pypi/dm/Flask-OpenAPI3-UI.svg)](https://pypi.python.org/pypi/Flask-OpenAPI3-UI)
 
-## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=katerinatiddy&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=katerinatiddy&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 ## You can help me by donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ktiddy) 
 
