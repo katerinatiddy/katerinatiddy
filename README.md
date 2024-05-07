@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Katerina
 
-<p>Full Stack Engineer at <a href="https://www.cadosecurity.com/">Cado Security</a> and Co-Founder/CEO at <a href="https://overflow.digital">Overflow Digital</a>.</p>
+<p>Senior Engineer at <a href="https://www.cadosecurity.com/">Cado Security</a> and Co-Founder/CEO at <a href="https://overflow.digital">Overflow Digital</a>.</p>
 
 <p>Find me on <a href="https://www.linkedin.com/in/k-tiddy/">LinkedIn</a>.</p>
 
